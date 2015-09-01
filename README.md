@@ -40,3 +40,7 @@ You'll need to create a profile with a portfolio before you can apply for jobs.
 * Java Jobs: 6,000+
 
 VentureLoop is the job board of venture-funded companies. They have a relationship with many of the VC firms and offer a job board for the portfolio companies of each firm. The user experience isn't the best, but it's a great resource to find Java jobs at companies that you know have financial backing, and hopefully a bit of runway to pay your salary. Plus, if the company does well, you'll be paper rich!
+
+---------------------
+
+Have a suggestion or want to add your favorite Java Jobs resource? Please submit a pull request and we'll merge it in!
