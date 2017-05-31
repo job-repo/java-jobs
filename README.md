@@ -43,4 +43,13 @@ VentureLoop is the job board of venture-funded companies. They have a relationsh
 
 ---------------------
 
+### [whoishiring.io](https://whoishiring.io/search/-10.7289/-7.3386/2?search=java)
+* URL: https://whoishiring.io/search/-10.7289/-7.3386/2?search=java
+* Jobs available: Full-time, Contract, Remote, Internship
+* Java Jobs: ~5000
+
+whoishiring.io is a cool board that graphically displays open jobs from sites like Hacker News, StackOverflow Careers, Github Jobs, ... and you can filter on Remote friendly jobs. Currenlty aggregating from 22 sources, around 30000 jobs with around 5000 Java jobs. 
+
+---------------------
+
 Have a suggestion or want to add your favorite Java Jobs resource? Please submit a pull request and we'll merge it in!
